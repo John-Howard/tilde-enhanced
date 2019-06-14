@@ -1,6 +1,6 @@
 # Tilde Enhanced
 
-A slightly modified version of [Cade Scroggins](https://github.com/cadejscroggins)'s homepage [Tilde](https://github.com/cadejscroggins/tilde).
+Based on [Cade Scroggins](https://github.com/cadejscroggins)'s [Tilde](https://github.com/cadejscroggins/tilde).
 
 ## Screenshots 
 
@@ -15,7 +15,7 @@ Few of the added features are:
 property set to true upon hitting `!` key.
 - Clicking on the clock brings up pre-defined sites.
 - Available sites show their icons instead of their corresponding keys.
-- Added the option to reverse colour theme.
+- Added the option to reverse colour theme. You can either edit config or use `reverse!` command.
 - Other small changes on grids.
 
 
@@ -82,9 +82,8 @@ This allows you to invoke Tilde with your native browser search bar.
 
 ## Configuration
 
-The above is just the beginning. Open up the [script.js](assets/script.js) file and
-read through the `CONFIG`!
+Open up the [script.js](assets/script.js) file and read through the `CONFIG`!
 
 ## License
 
-Feel free to [use this and modify it however you like](https://github.com/cadejscroggins/tilde/blob/master/LICENSE).
+Feel free to [use this and modify it however you like](https://github.com/Ozencb/tilde-enhanced/blob/master/LICENSE).
